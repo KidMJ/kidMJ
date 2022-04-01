@@ -30,10 +30,7 @@
   
 <br/>
   
-<table><tr><td valign="top" width="50%">
-![MyeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&theme=aura align="left" style="width: 100%")
-  </td><td valign="top" width="50%">
-[![MyeongJun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&layout=compact&theme=aura align="left" style="width: 100%" )](https://github.com/KidMJ)
-  </td></tr></table>  
+![MyeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&theme=aura)
+[![MyeongJun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&layout=compact&theme=aura)](https://github.com/KidMJ)
 </div>
 
