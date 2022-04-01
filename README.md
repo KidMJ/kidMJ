@@ -1,3 +1,7 @@
+<div 정렬="right">
+<img src="https://komarev.com/ghpvc/?username=KidMj&&style=flat-square" align="right" />
+</div>  
+
 <div align="center">
 
 
@@ -9,8 +13,6 @@
   <a href="mailto:cchokid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/chokid-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_chokid" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FkidMJ&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visit&edge_flat=false)](https://hits.seeyoufarm.com)       
 
   
 ### 🛠 Languages and Tools
@@ -30,10 +32,12 @@
   
 <br/>
 
-![KidMJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&theme=aura)
+##  Github Stats  
+<표><tr><td valign="top" 너비="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&count_private=true&hide_border=true" align="left" 스타일="너비: 100%" />
+</td><td valign="top" 너비="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&hide_border=true&layout=compact" align="left" 스타일="너비: 100%" />
+</td></tr></table>  
 <br/>  
-[![KidMJ's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&layout=compact&theme=aura)](https://github.com/KidMJ)
-
-  
 </div>
 
