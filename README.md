@@ -30,13 +30,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
   
+![MyeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&theme=radical)
+![MyeongJun's GitHub stats](https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&theme=aura)
 <br/>  
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&hide_border=true&layout=compact" align="left" style="width: 100%" />
-</td></tr></table>  
-<br/>   
+[![MyeongJun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/KidMJ)
+[![MyeongJun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&layout=compact&theme=aura)](https://github.com/KidMJ)
+
+
 </div>
 
