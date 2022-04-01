@@ -30,14 +30,13 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
   
-<br/>
-
-##  Github Stats  
-<표><tr><td valign="top" 너비="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&count_private=true&hide_border=true" align="left" 스타일="너비: 100%" />
-</td><td valign="top" 너비="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&hide_border=true&layout=compact" align="left" 스타일="너비: 100%" />
-</td></tr></table>  
 <br/>  
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api?username=KidMJ&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+</td><td valign="top" width="50%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KidMJ&hide_border=true&layout=compact" align="left" style="width: 100%" />
+</td></tr></table>  
+<br/>   
 </div>
 
