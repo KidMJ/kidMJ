@@ -1,4 +1,4 @@
-<div align="right">
+<div>
 <img src="https://komarev.com/ghpvc/?username=KidMj&&style=flat-square" align="right" />
 </div>  
 
