@@ -6,7 +6,6 @@
 ### Good luck with you! 👋
 
 <p>
-  <a href="https://velog.io/@chokid/" target="_blank"><img src="https://img.shields.io/badge/Blog-007474?style=flat-square&logo=GitHub%20Sponsors&logoColor=white"/></a>
   <a href="mailto:cchokid@gmail.com" target="_blank"><img src="https://img.shields.io/badge/cchokid-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.instagram.com/_chokid" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 </p>
